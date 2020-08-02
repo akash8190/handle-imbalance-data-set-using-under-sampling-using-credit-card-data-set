@@ -19,6 +19,6 @@ Oversampling, which consists in over-sizing the minority class by adding observa
 Visual explanation of under-sampling and over-sampling
 
 
-![alt text]    ( https://miro.medium.com/max/620/1*yYMSLDHkxY_4OkPqQt7S0g.png)
+![alt text]( https://miro.medium.com/max/620/1*yYMSLDHkxY_4OkPqQt7S0g.png)
 
        

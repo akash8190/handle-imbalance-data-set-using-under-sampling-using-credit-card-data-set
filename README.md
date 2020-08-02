@@ -11,6 +11,13 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 dataset link  https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+## undersampling
+
+Undersampling, which consists in down-sizing the majority class by removing observations until the dataset is balanced
+
+
+
+
 ## oversampling
 
 Oversampling, which consists in over-sizing the minority class by adding observations
